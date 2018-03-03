@@ -1,0 +1,35 @@
+Token name: Litecoin Cash
+
+Token ticker: LTCH
+
+Token decimals: 18
+
+Multisig wallet address: 0xBbbC33f9F782Efc4260Be3F7eFB4F68A83D6072C
+
+*****************************
+
+Crowdsale rate: 1000
+
+Crowdsale start time: 2018-04-02T00:23 (GMT + 1)
+
+Crowdsale end time: 2018-05-05T00:23 (GMT + 1)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for LTCH ICO 2: 0x2C36a6759f7f705fb8A74524eEF0fA1edCf1Ce70
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for LTCH ICO 2:**** 
+
+000000000000000000000000d9d9d6316c883e1fb32b7e872d41558ab44504a7
