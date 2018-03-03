@@ -34,7 +34,7 @@ Medium : https://medium.com/@litecoincashteam/litecoin-cash-ltch-10c4565fe129
 Reddit : https://redd.it/8175xn
 Cointelegraph : https://cointelegraph.com/press-releases/litecoin-cash-ltch-token-sale
 Video intro : https://litecoin-cash.io/themes/default/front/video/LTCH.mp4
-Github : https://gist.github.com/litecoincashteam/5065cadfbcbada41f7bb906b46ea3b2c
+Gists : https://gist.github.com/litecoincashteam/5065cadfbcbada41f7bb906b46ea3b2c
 Crowdsale : https://wizard.oracles.org/crowdsale/?addr=0x41Fe43DC40F5bE38bf7025cDc66bdc2a25e0C4C0&networkID=1
 
 
