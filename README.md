@@ -10,40 +10,32 @@ Token name : Litecoin Cash
 Token Symbol : LTCH
 
 Token Address : 
-0x23D6e47F6405615Da8fD58549D7E89B109b14BEF
-
-Crowdsale Contract Address :
-0x41Fe43DC40F5bE38bf7025cDc66bdc2a25e0C4C0
+0x22945dec52d5fcbf5b305e84b55d13f6b7968fb0
 
 Decimals : 18
 
-Total Supply Included in Sale : 55 000 000 LTCH
+Total Supply : 55 000 000 LTCH
 
 OUR VISION : 
 
-Protection of privacy by applying high secured technologiesReducing the cost of transfer Giving the users all what they need to be satisfied  
+Protection of privacy by applying high secured technologies reducing the cost of transfer giving the users all what they need to be satisfied.
+LTCH empowers security, scale  and coding flexibility on a business focused blockchain platform.
+The LTCH team will launch LTCH, Inc., as a commercial entity to provide an array of products and services to the community. 
+LTCH team will create a specifoc platform to manipulate exchanges/trading of our token LTCH.
+Our vision supports areas of the market that areunderserved with strong demand and projected growth in the blockchain industry ($300M by 2019 ) .
+LTCH platform will support these needs.
+
 
 Website : https://litecoin-cash.io
 Contact : team@litecoin-cash.io
-Twitter : @LtchCash
+Twitter : https://twitter.com/LtchCash
 Telegram : https://t.me/joinchat/IA_rG0fLymVEUVZMPyLxTw
 
 Whitepaper & Roadmap : https://litecoin-cash.io/Whitepaper.pdf
 
-Medium : https://medium.com/@litecoincashteam/litecoin-cash-ltch-10c4565fe129
-Reddit : https://redd.it/8175xn
-Cointelegraph : https://cointelegraph.com/press-releases/litecoin-cash-ltch-token-sale
-Video intro : https://litecoin-cash.io/themes/default/front/video/LTCH.mp4
-Gists : https://gist.github.com/litecoincashteam/5065cadfbcbada41f7bb906b46ea3b2c
-Crowdsale : https://wizard.oracles.org/crowdsale/?addr=0x41Fe43DC40F5bE38bf7025cDc66bdc2a25e0C4C0&networkID=1
+Litecoin Cash Token Distribution
+Founders & Developers  10,000,000 LTCH 18.00%
+Airdrop 39,000,000 LTCH 72.00%
+Reserver for exchanges 6,000,000 LTCH 10.00%
 
 
-
-LTCH public sale will begin on 01 MARCH 2018 .
-- ICO 1 ( Pre ICO ) from 01 March to 02 April . ( 5 000 000 LTCH ; 1 LTCH = 0.4$ ) 
-- ICO 2 from 02 April to 05 May . ( 10 000 000 LTCH ; 1 LTCH = 0.8$ ) 
-- ICO 3 ( Final round ) from 05 May to 01 July . ( 40 000 000 LTCH ; 1 LTCH = 1.6$ ) 
-
-
-Direct Link to buy LTCH ( use METAMASK in your browser ) : 
-https://wizard.oracles.org/crowdsale/?addr=0x41Fe43DC40F5bE38bf7025cDc66bdc2a25e0C4C0&networkID=1
