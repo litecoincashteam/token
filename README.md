@@ -6,11 +6,12 @@ LITECOIN CASH LTCH :
 Litecoin Cash ethereum token (LTCH) is an innovative cryptocurrency. A form of ethereum blockchain (erc20) , enhanced and further developed version, instant and secure payments as well as anonymous transactions. Litecoin Cash has great potential for rapid growth and expansion. It is accessible to everyone; it ensures a fair and stable return of investments .
 
 Token Definition : 
+
 Token name : Litecoin Cash
+
 Token Symbol : LTCH
 
-Token Address : 
-0x22945dec52d5fcbf5b305e84b55d13f6b7968fb0
+Token Address : 0x22945dec52d5fcbf5b305e84b55d13f6b7968fb0
 
 Decimals : 18
 
