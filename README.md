@@ -28,15 +28,24 @@ LTCH platform will support these needs.
 
 
 Website : https://litecoin-cash.io
+
 Contact : team@litecoin-cash.io
+
 Twitter : https://twitter.com/LtchCash
+
 Telegram : https://t.me/joinchat/IA_rG0fLymVEUVZMPyLxTw
+
 
 Whitepaper & Roadmap : https://litecoin-cash.io/Whitepaper.pdf
 
+
 Litecoin Cash Token Distribution
+
 Founders & Developers  10,000,000 LTCH 18.00%
+
 Airdrop 39,000,000 LTCH 72.00%
+
 Reserver for exchanges 6,000,000 LTCH 10.00%
+
 
 
